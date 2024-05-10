@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetTraining\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj": {}
+    "D:\\DotNet\\ExceptionHandling\\ExceptionHandling.csproj": {}
   },
   "projects": {
-    "D:\\DotNetTraining\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj": {
+    "D:\\DotNet\\ExceptionHandling\\ExceptionHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetTraining\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+        "projectUniqueName": "D:\\DotNet\\ExceptionHandling\\ExceptionHandling.csproj",
         "projectName": "ExceptionHandling",
-        "projectPath": "D:\\DotNetTraining\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+        "projectPath": "D:\\DotNet\\ExceptionHandling\\ExceptionHandling.csproj",
         "packagesPath": "C:\\Users\\QualMinds User\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetTraining\\ExceptionHandling\\ExceptionHandling\\obj\\",
+        "outputPath": "D:\\DotNet\\ExceptionHandling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

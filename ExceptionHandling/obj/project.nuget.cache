@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GfFacJ9b80cQPKw+w3uVo+HVoD3VXt58og1zmT3CHYM/Jb6K14quUoLKx4yaIz355Wm2AKwYLI1Cb7vLNQs1cw==",
+  "dgSpecHash": "+JhnQBEBoOxmirsI5t/6un5uApm3DoMKkdKFlQ+/fepKrtYhtOsmmxLvgJ2JQalQAD1jzSwQs6f9kKor983saA==",
   "success": true,
-  "projectFilePath": "D:\\DotNetTraining\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+  "projectFilePath": "D:\\DotNet\\ExceptionHandling\\ExceptionHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
